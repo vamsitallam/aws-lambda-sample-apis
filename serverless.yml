@@ -1,0 +1,44 @@
+service: vamsi-tallam-apis
+
+frameworkVersion: "2"
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  versionFunctions: false
+  region: ap-south-1
+  environment:
+    NODE_PATH: "./:opt/node_modules"
+  profile: ${opt:profile, 'default'}
+  logs:
+    restApi: true
+  iamRoleStatements:
+    - Effect: "Allow"
+      Action:
+        - "dynamodb:Scan"
+        - "dynamodb:GetItem"
+        - "dynamodb:PutItem"
+      Resource: "*"
+
+functions:
+  hello:
+    handler: handler.hello
+    events:
+      - http:
+          path: /hello
+          method: get
+          cors: true
+  unicorns:
+    handler: unicorns.unicornsList
+    events:
+      - http:
+          path: /unicorns
+          method: get
+          cors: true
+plugins:
+  - serverless-offline
+
+package:
+  exclude:
+    - nodejs/**
+    - venv/**

@@ -1,0 +1,4537 @@
+
+[
+    {
+      "caption": "",
+      "data": [
+        [
+          "Company",
+          "Valuation (US $billion)",
+          "Valuation date",
+          "Industry",
+          "Country",
+          "Founder(s)"
+        ],
+        [
+          "ByteDance",
+          "140",
+          "April 2021[12]",
+          "Internet",
+          "China",
+          "Zhang Yiming,  Liang Rubo"
+        ],
+        [
+          "SpaceX",
+          "100",
+          "October 2021[13]",
+          "Aerospace",
+          "US",
+          "Elon Musk"
+        ],
+        [
+          "Stripe",
+          "95",
+          "March 2021[14]",
+          "Financial services",
+          "US /  Ireland",
+          "Patrick and John Collison"
+        ],
+        [
+          "Klarna",
+          "45.6",
+          "June 2021[15]",
+          "Financial technology",
+          "Sweden",
+          "Sebastian Siemiatkowski, Niklas Adalberth, Victor Jacobsson"
+        ],
+        [
+          "Canva",
+          "40",
+          "September 2021[16]",
+          "Graphic design",
+          "Australia",
+          "Melanie Perkins, Clifford Obrecht, Cameron Adams"
+        ],
+        [
+          "Instacart",
+          "39",
+          "March 2021[17]",
+          "Retail",
+          "US",
+          "Apoorva Mehta, Max Mullen, Brandon Leonardo"
+        ],
+        [
+          "Databricks",
+          "38",
+          "August 2021[18]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Revolut",
+          "33",
+          "July 2021[19]",
+          "Financial technology",
+          "UK",
+          "Nikolay Storonsky, Vlad Yatsenko"
+        ],
+        [
+          "Nubank",
+          "30",
+          "June 2021[20]",
+          "Financial services",
+          "Brazil",
+          "David Velez, Edward Wible, Cristina Junqueira"
+        ],
+        [
+          "Telegram",
+          "30",
+          "January 2021[21]",
+          "Internet",
+          "UK /  UAE",
+          "Nikolai and Pavel Durov"
+        ],
+        [
+          "Epic Games",
+          "28.7",
+          "April 2021[22]",
+          "Video games",
+          "US",
+          "Tim Sweeney"
+        ],
+        [
+          "Rivian",
+          "27.6",
+          "January 2021[23]",
+          "Automotive",
+          "US",
+          "Robert \"RJ\" Scaringe"
+        ],
+        [
+          "Chime",
+          "25",
+          "August 2021[24]",
+          "Financial services",
+          "US",
+          "Chris Britt and Ryan King"
+        ],
+        [
+          "Byju's",
+          "18",
+          "October 2021[25]",
+          "Education technology",
+          "India",
+          "Byju Raveendran, Divya Gokulnath"
+        ],
+        [
+          "Fanatics",
+          "18",
+          "August 2021[26]",
+          "E-commerce",
+          "US",
+          ""
+        ],
+        [
+          "FTX",
+          "18",
+          "July 2021[27]",
+          "Cryptocurrency",
+          "Bahamas",
+          ""
+        ],
+        [
+          "GoTo Group (Gojek-Tokopedia)",
+          "18",
+          "May 2021[28]",
+          "Technology",
+          "Indonesia",
+          ""
+        ],
+        [
+          "Paytm",
+          "16",
+          "November 2019[29]",
+          "Financial technology",
+          "India",
+          "Vijay Shekhar Sharma"
+        ],
+        [
+          "Yuanfudao",
+          "15.5",
+          "October 2020[30]",
+          "Education technology",
+          "China"
+        ],
+        [
+          "Checkout.com",
+          "15",
+          "January 2021[31]",
+          "Financial technology",
+          "UK"
+        ],
+        [
+          "DJI",
+          "15",
+          "September 2016[1]",
+          "Technology",
+          "China",
+          "Frank Wang (Wang Tao)"
+        ],
+        [
+          "GoPuff",
+          "15",
+          "July 2021[32]",
+          "E-commerce",
+          "US",
+          "Yakir Gola, Rafael Ilishayev"
+        ],
+        [
+          "Shein",
+          "15",
+          "February 2021[33]",
+          "E-commerce",
+          "China",
+          "Chris Xu"
+        ],
+        [
+          "Grab",
+          "14",
+          "March 2019[34]",
+          "Technology",
+          "Singapore",
+          "Anthony Tan, Tan Hooi Ling"
+        ],
+        [
+          "Plaid",
+          "13.4",
+          "April 2021[35]",
+          "Financial Technology",
+          "US",
+          "Zach Perret, William Hockey"
+        ],
+        [
+          "Biosplice Therapeutics",
+          "12",
+          "April 2021[36]",
+          "Health",
+          "US",
+          "Osman Kibar"
+        ],
+        [
+          "Bitmain",
+          "12",
+          "June 2018[37]",
+          "Cryptocurrency",
+          "China",
+          ""
+        ],
+        [
+          "SenseTime",
+          "12",
+          "January 2021[38]",
+          "Artificial intelligence",
+          "China /  Hong Kong",
+          ""
+        ],
+        [
+          "Northvolt",
+          "11.75",
+          "June 2021[39]",
+          "Batteries",
+          "Sweden",
+          ""
+        ],
+        [
+          "Celonis",
+          "11",
+          "June 2021[40]",
+          "Software",
+          "Germany",
+          ""
+        ],
+        [
+          "ZongMu Technology",
+          "11",
+          "June 2021[41]",
+          "Self-driving cars",
+          "China",
+          ""
+        ],
+        [
+          "Aurora",
+          "10",
+          "December 2020[42]",
+          "Self-driving cars",
+          "US",
+          ""
+        ],
+        [
+          "Chehaoduo",
+          "10",
+          "July 2021[43]",
+          "Marketplace",
+          "China",
+          ""
+        ],
+        [
+          "Figma",
+          "10",
+          "June 2021[44]",
+          "Software",
+          "US",
+          "Dylan Field and Evan Wallace"
+        ],
+        [
+          "Gusto",
+          "10",
+          "August 2021[45]",
+          "Software",
+          "US",
+          "Joshua Reeves and Edward Kim"
+        ],
+        [
+          "Lalamove",
+          "10",
+          "January 2021[46]",
+          "Logistics",
+          "Hong Kong /  China",
+          ""
+        ],
+        [
+          "Reddit",
+          "10",
+          "August 2021[47]",
+          "Internet media",
+          "US",
+          "Steve Huffman, Aaron Swartz, Alexis Ohanian"
+        ],
+        [
+          "Ripple",
+          "10",
+          "December 2019[48]",
+          "Computer software",
+          "US",
+          ""
+        ],
+        [
+          "Talkdesk",
+          "10",
+          "August 2021[49]",
+          "Software as a service",
+          "Portugal /  US",
+          "Cristina Fonseca, Tiago Paiva"
+        ],
+        [
+          "Oyo",
+          "9.6",
+          "August 2021[50]",
+          "Hospitality",
+          "India",
+          "Ritesh Agarwal"
+        ],
+        [
+          "Klaviyo",
+          "9.5",
+          "May 2021[51]",
+          "Marketing",
+          "US",
+          ""
+        ],
+        [
+          "OutSystems",
+          "9.5",
+          "February 2021[52]",
+          "Software development",
+          "Portugal /  US",
+          ""
+        ],
+        [
+          "ServiceTitan",
+          "9.5",
+          "June 2021[53]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Tanium",
+          "9",
+          "June 2020[54]",
+          "Technology",
+          "US",
+          "David Hindawi, Orion Hindawi"
+        ],
+        [
+          "Rapyd",
+          "8.7",
+          "August 2021[55]",
+          "Financial technology",
+          "UK",
+          ""
+        ],
+        [
+          "Snyk",
+          "8.5",
+          "September 2021[56]",
+          "Application security",
+          "UK",
+          ""
+        ],
+        [
+          "Tempus",
+          "8.1",
+          "December 2020[57]",
+          "Health",
+          "US",
+          ""
+        ],
+        [
+          "J&T Express",
+          "7.8",
+          "April 2021[58]",
+          "Logistics",
+          "Indonesia",
+          ""
+        ],
+        [
+          "Hopin",
+          "7.75",
+          "August 2021[59]",
+          "Virtual events",
+          "UK",
+          ""
+        ],
+        [
+          "Dapper Labs",
+          "7.6",
+          "September 2021[60]",
+          "NFT",
+          "Canada",
+          ""
+        ],
+        [
+          "Getir",
+          "7.56",
+          "June 2021[61]",
+          "Retail",
+          "Turkey",
+          "Nazım Salur"
+        ],
+        [
+          "Netskope",
+          "7.5",
+          "July 2021[62]",
+          "Computer security",
+          "US",
+          "Sanjay Beri, Lebin Cheng, Ravi Ithal, Krishna Narayanaswamy"
+        ],
+        [
+          "Brex",
+          "7.4",
+          "April 2021[63]",
+          "Finance",
+          "US",
+          "Henrique Dubugras and Pedro Franceschi"
+        ],
+        [
+          "Carta",
+          "7.4",
+          "August 2021[64]",
+          "Software",
+          "US",
+          "Henry Ward"
+        ],
+        [
+          "Viva Republica (Toss)",
+          "7.4",
+          "June 2021[65]",
+          "Financial technology",
+          "South Korea",
+          ""
+        ],
+        [
+          "Scale AI",
+          "7.3",
+          "April 2021[66]",
+          "Artificial intelligence",
+          "US",
+          ""
+        ],
+        [
+          "Argo AI",
+          "7.25",
+          "July 2020[67]",
+          "Artificial intelligence",
+          "US",
+          "Bryan Salesky and Peter Rander"
+        ],
+        [
+          "Gong",
+          "7.25",
+          "June 2021[68]",
+          "Artificial intelligence",
+          "US",
+          ""
+        ],
+        [
+          "Discord",
+          "7",
+          "December 2020[69]",
+          "Software",
+          "US",
+          "Jason Citron, Stanislav Vishnevsky"
+        ],
+        [
+          "Faire",
+          "7",
+          "June 2021[70]",
+          "E-commerce",
+          "US",
+          ""
+        ],
+        [
+          "WeWork",
+          "7",
+          "November 2019[71]",
+          "Commercial real estate",
+          "US",
+          "Adam Neumann, Miguel McKelvey"
+        ],
+        [
+          "Automation Anywhere",
+          "6.8",
+          "November 2019[72]",
+          "Robotic process automation",
+          "US",
+          ""
+        ],
+        [
+          "WeDoctor",
+          "6.8",
+          "February 2021[73]",
+          "Healthcare",
+          "China",
+          ""
+        ],
+        [
+          "Ziroom",
+          "6.6",
+          "March 2020[74]",
+          "Real estate technology",
+          "China",
+          ""
+        ],
+        [
+          "Mollie",
+          "6.5",
+          "June 2021[75]",
+          "Financial technology",
+          "Netherlands",
+          ""
+        ],
+        [
+          "DataRobot",
+          "6.3",
+          "July 2021[76]",
+          "Artificial intelligence",
+          "US",
+          ""
+        ],
+        [
+          "Personio",
+          "6.3",
+          "October 2021[77]",
+          "Software",
+          "Germany",
+          ""
+        ],
+        [
+          "Ola Cabs",
+          "6.2",
+          "March 2019[78]",
+          "Transportation",
+          "India",
+          "Bhavish Aggarwal, Ankit Bhati"
+        ],
+        [
+          "Lianjia (Homelink)",
+          "6.04",
+          "April 2017[79]",
+          "Real estate",
+          "China",
+          ""
+        ],
+        [
+          "Better.com",
+          "6",
+          "April 2021[80]",
+          "Financial services",
+          "US",
+          ""
+        ],
+        [
+          "Thrasio",
+          "6",
+          "February 2021[81]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Xingsheng Youxuan",
+          "6",
+          "January 2021[82]",
+          "Retail",
+          "China",
+          ""
+        ],
+        [
+          "Airtable",
+          "5.77",
+          "March 2021[83]",
+          "Collaborative software",
+          "US",
+          "Howie Liu, Andrew Ofstad, Emmett Nicholas"
+        ],
+        [
+          "Vice Media",
+          "5.7",
+          "February 2020[84]",
+          "Mass media",
+          "US",
+          ""
+        ],
+        [
+          "Fivetran",
+          "5.6",
+          "September 2021[85]",
+          "Data infrastructure",
+          "US",
+          ""
+        ],
+        [
+          "PharmEasy",
+          "5.6",
+          "October 2021[86]",
+          "Health technology",
+          "India",
+          ""
+        ],
+        [
+          "Postman",
+          "5.6",
+          "August 2021[87]",
+          "Software as a service",
+          "India /  US",
+          ""
+        ],
+        [
+          "PhonePe",
+          "5.5",
+          "December 2020[88]",
+          "Financial technology",
+          "India",
+          "Sameer Nigam, Rahul Chari"
+        ],
+        [
+          "Swiggy",
+          "5.5",
+          "July 2021[89]",
+          "Food delivery",
+          "India",
+          "Nandan Reddy, Sriharsha Majety"
+        ],
+        [
+          "Samsara",
+          "5.4",
+          "May 2020[90]",
+          "Technology",
+          "US",
+          ""
+        ],
+        [
+          "Pony.ai",
+          "5.3",
+          "November 2020[91]",
+          "Artificial intelligence",
+          "China /  US",
+          ""
+        ],
+        [
+          "Trade Republic",
+          "5.3",
+          "May 2021[92]",
+          "Financial technology",
+          "Germany",
+          ""
+        ],
+        [
+          "Blockchain.com",
+          "5.2",
+          "March 2021[93]",
+          "Cryptocurrency",
+          "UK",
+          ""
+        ],
+        [
+          "HashiCorp",
+          "5.1",
+          "March 2020[94]",
+          "Cloud computing",
+          "US",
+          ""
+        ],
+        [
+          "OneTrust",
+          "5.1",
+          "December 2020[95]",
+          "Cybersecurity",
+          "UK /  US",
+          ""
+        ],
+        [
+          "SambaNova",
+          "5.1",
+          "April 2021[96]",
+          "Artificial intelligence",
+          "US",
+          ""
+        ],
+        [
+          "Collibra",
+          "5+",
+          "January 2019[97]",
+          "",
+          "Belgium",
+          ""
+        ],
+        [
+          "CloudKitchens",
+          "5",
+          "November 2019[98][99]",
+          "Ghost kitchen",
+          "US",
+          ""
+        ],
+        [
+          "Dream11",
+          "5",
+          "March 2021[100]",
+          "Fantasy sports",
+          "India",
+          "Harsh Jain, Bhavit Sheth"
+        ],
+        [
+          "Hello TransTech",
+          "5",
+          "March 2021[101]",
+          "Transportation",
+          "China",
+          ""
+        ],
+        [
+          "JUUL Labs",
+          "5",
+          "October 2019[102]",
+          "Electronic Cigarettes",
+          "US",
+          ""
+        ],
+        [
+          "Nuro",
+          "5",
+          "November 2020[103]",
+          "Robotics",
+          "US",
+          ""
+        ],
+        [
+          "Ro",
+          "5",
+          "March 2021[104]",
+          "Health technology",
+          "US",
+          ""
+        ],
+        [
+          "Royole",
+          "5",
+          "August 2018[105]",
+          "Flexible electronics",
+          "China /  US",
+          ""
+        ],
+        [
+          "TripActions",
+          "5",
+          "January 2021[106]",
+          "Travel",
+          "US",
+          "Ariel Cohen and Ilan Twig"
+        ],
+        [
+          "UBtech Robotics",
+          "5",
+          "May 2018[107]",
+          "Robotics",
+          "China",
+          ""
+        ],
+        [
+          "United Imaging Healthcare",
+          "5",
+          "September 2017[58]",
+          "Healthcare",
+          "China",
+          ""
+        ],
+        [
+          "Zepz",
+          "5",
+          "August 2021[108]",
+          "Financial technology",
+          "UK",
+          ""
+        ],
+        [
+          "Meesho",
+          "4.9",
+          "September 2021[109]",
+          "E-commerce",
+          "India",
+          "Vidit Aatrey, Sanjeev Barnwal"
+        ],
+        [
+          "Anduril Industries",
+          "4.6",
+          "June 2021[110]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Checkr",
+          "4.6",
+          "August 2021[111]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Dataiku",
+          "4.6",
+          "August 2021[112]",
+          "Artificial intelligence",
+          "France /  US",
+          ""
+        ],
+        [
+          "Magic Leap",
+          "4.5",
+          "February 2016[1][5]",
+          "Augmented Reality",
+          "US",
+          ""
+        ],
+        [
+          "Vinted",
+          "4.5",
+          "May 2021[113]",
+          "Marketplace",
+          "Lithuania",
+          ""
+        ],
+        [
+          "Zenefits",
+          "4.5",
+          "May 2015[2][5]",
+          "Human resource management",
+          "US",
+          ""
+        ],
+        [
+          "Meizu",
+          "4.4",
+          "October 2016[58]",
+          "Consumer electronics",
+          "China",
+          ""
+        ],
+        [
+          "Outreach",
+          "4.4",
+          "June 2021[114]",
+          "Sales",
+          "US",
+          ""
+        ],
+        [
+          "Sorare",
+          "4.3",
+          "September 2021[115]",
+          "Fantasy sports",
+          "France",
+          ""
+        ],
+        [
+          "Chainalysis",
+          "4.2",
+          "June 2021[citation needed]",
+          "Blockchain",
+          "US",
+          ""
+        ],
+        [
+          "Relativity Space",
+          "4.2",
+          "June 2021[116]",
+          "Aerospace",
+          "US",
+          ""
+        ],
+        [
+          "SSENSE",
+          "4.15",
+          "June 2021[117]",
+          "E-commerce",
+          "Canada",
+          ""
+        ],
+        [
+          "Bitpanda",
+          "4.1",
+          "August 2021[118]",
+          "Cryptocurrency",
+          "Austria",
+          ""
+        ],
+        [
+          "Dataminr",
+          "4.1",
+          "March 2021[119]",
+          "Data analytics",
+          "US",
+          ""
+        ],
+        [
+          "Yello Mobile",
+          "4.05",
+          "November 2016[5][120]",
+          "Software industry",
+          "South Korea",
+          ""
+        ],
+        [
+          "Amplitude",
+          "4",
+          "June 2021[121]",
+          "Data analytics",
+          "US",
+          ""
+        ],
+        [
+          "BrowserStack",
+          "4",
+          "June 2021[122]",
+          "Software",
+          "India",
+          "Ritesh Arora, Nakul Aggarwal"
+        ],
+        [
+          "Clubhouse",
+          "4",
+          "April 2021[123]",
+          "Messaging",
+          "US",
+          ""
+        ],
+        [
+          "CRED",
+          "4",
+          "October 2021[124]",
+          "Financial technology",
+          "India",
+          "Kunal Shah"
+        ],
+        [
+          "Houzz",
+          "4",
+          "June 2017[125]",
+          "Interior design",
+          "US",
+          ""
+        ],
+        [
+          "iCapital Network",
+          "4",
+          "July 2021[126]",
+          "Financial services",
+          "US",
+          ""
+        ],
+        [
+          "Kavak",
+          "4",
+          "April 2021[127]",
+          "Marketplace",
+          "Mexico",
+          ""
+        ],
+        [
+          "Megvii",
+          "4",
+          "May 2019[128]",
+          "Technology",
+          "China",
+          ""
+        ],
+        [
+          "Melio",
+          "4",
+          "September 2021[129]",
+          "Financial technology",
+          "Israel",
+          ""
+        ],
+        [
+          "Next Insurance",
+          "4",
+          "March 2021[130]",
+          "Insurance",
+          "US",
+          ""
+        ],
+        [
+          "Olive",
+          "4",
+          "June 2021[131]",
+          "Health technology",
+          "US",
+          ""
+        ],
+        [
+          "Patreon",
+          "4",
+          "April 2021[132]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "PointClickCare",
+          "4",
+          "January 2021[133]",
+          "Software",
+          "Canada",
+          ""
+        ],
+        [
+          "QuintoAndar [pt]",
+          "4",
+          "May 2021[134]",
+          "Real Estate",
+          "Brazil",
+          ""
+        ],
+        [
+          "Niantic",
+          "3.95",
+          "January 2019[135]",
+          "Video games",
+          "US",
+          ""
+        ],
+        [
+          "StockX",
+          "3.8",
+          "April 2021[136]",
+          "E-commerce",
+          "US",
+          ""
+        ],
+        [
+          "Articulate",
+          "3.75",
+          "July 2021[137]",
+          "Education technology",
+          "US",
+          ""
+        ],
+        [
+          "Cohesity",
+          "3.7",
+          "March 2021[138]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Noom",
+          "3.7",
+          "May 2021[139]",
+          "Healthcare",
+          "US",
+          ""
+        ],
+        [
+          "Papaya Global",
+          "3.7",
+          "September 2021[140]",
+          "Workforce management",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "VAST Data",
+          "3.7",
+          "May 2021[141]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "WHOOP",
+          "3.6",
+          "August 2021[142]",
+          "Wearable technology",
+          "US",
+          ""
+        ],
+        [
+          "Shouqi",
+          "3.55",
+          "December 2016[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Coalition",
+          "3.5",
+          "September 2021[143]",
+          "Cybersecurity",
+          "US",
+          ""
+        ],
+        [
+          "Commure",
+          "3.5",
+          "September 2021[144]",
+          "Health technology",
+          "US",
+          ""
+        ],
+        [
+          "Digit Insurance",
+          "3.5",
+          "July 2021[145]",
+          "Insurance",
+          "India",
+          ""
+        ],
+        [
+          "Hopper",
+          "3.5",
+          "August 2021[146]",
+          "Travel",
+          "Canada",
+          ""
+        ],
+        [
+          "Mirakl",
+          "3.5",
+          "September 2021[147]",
+          "Marketplace",
+          "France",
+          ""
+        ],
+        [
+          "N26",
+          "3.5",
+          "July 2019[148]",
+          "Financial services",
+          "Germany",
+          ""
+        ],
+        [
+          "OwnBackup",
+          "3.35",
+          "August 2021[149]",
+          "Data storage",
+          "US",
+          ""
+        ],
+        [
+          "Preferred Networks",
+          "3.33",
+          "September 2019[150]",
+          "Artificial intelligence",
+          "Japan",
+          ""
+        ],
+        [
+          "Rubrik",
+          "3.3",
+          "January 2019[151]",
+          "Computer storage",
+          "US",
+          "Bipul Sinha, Arvind Jain, Soham Mazumdar, Arvind Nithrakashyap"
+        ],
+        [
+          "Scopely",
+          "3.3",
+          "October 2020[152]",
+          "Mobile gaming",
+          "US",
+          ""
+        ],
+        [
+          "WeRide",
+          "3.3",
+          "June 2021[153]",
+          "Self-driving cars",
+          "China",
+          ""
+        ],
+        [
+          "Youxia Motors",
+          "3.3",
+          "October 2018[154]",
+          "Electric vehicles",
+          "China",
+          ""
+        ],
+        [
+          "Unacademy",
+          "3.4",
+          "August 2021[155]",
+          "Education Technology",
+          "India",
+          "Gaurav Munjal"
+        ],
+        [
+          "Udemy",
+          "3.25",
+          "November 2020[156]",
+          "Education technology",
+          "US",
+          ""
+        ],
+        [
+          "ApplyBoard",
+          "3.2",
+          "June 2021[157]",
+          "Education technology",
+          "Canada",
+          "Martin Basiri, Massi Basiri, Meti Basiri"
+        ],
+        [
+          "Back Market",
+          "3.2",
+          "May 2021[158]",
+          "Marketplace",
+          "France",
+          ""
+        ],
+        [
+          "Blockstream",
+          "3.2",
+          "August 2021[159]",
+          "Fintech",
+          "Canada",
+          ""
+        ],
+        [
+          "Cybereason",
+          "3.2",
+          "July 2021[160]",
+          "Cybersecurity",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "Eruditus",
+          "3.2",
+          "August 2021[161]",
+          "Educational technology",
+          "India",
+          ""
+        ],
+        [
+          "PsiQuantum",
+          "3.15",
+          "July 2021[162]",
+          "Quantum computing",
+          "US",
+          ""
+        ],
+        [
+          "SpotOn",
+          "3.15",
+          "September 2021[163]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "TiendaNube",
+          "3.1",
+          "August 2021[164]",
+          "E-commerce",
+          "Argentina",
+          ""
+        ],
+        [
+          "SentinelOne",
+          "3.1",
+          "November 2020[165]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Udaan",
+          "3.1",
+          "January 2021[166]",
+          "B2B e-commerce",
+          "India",
+          ""
+        ],
+        [
+          "Rappi",
+          "3+",
+          "April 2019[167]",
+          "Transportation",
+          "Colombia",
+          ""
+        ],
+        [
+          "Wildlife",
+          "3+",
+          "August 2020[168]",
+          "Mobile gaming",
+          "Brazil",
+          ""
+        ],
+        [
+          "ActiveCampaign",
+          "3",
+          "April 2021[169]",
+          "Marketing",
+          "US",
+          ""
+        ],
+        [
+          "Age of Learning, Inc.",
+          "3",
+          "June 2021[170]",
+          "Education",
+          "US",
+          ""
+        ],
+        [
+          "Automattic",
+          "3",
+          "September 2019[171]",
+          "Internet",
+          "US",
+          "Matt Mullenweg"
+        ],
+        [
+          "Calendly",
+          "3",
+          "January 2021[172]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Contentful",
+          "3",
+          "July 2021[173]",
+          "Content management system",
+          "Germany",
+          ""
+        ],
+        [
+          "Delhivery",
+          "3",
+          "May 2021[174]",
+          "Logistics",
+          "India",
+          ""
+        ],
+        [
+          "Forter",
+          "3",
+          "May 2021[175]",
+          "Software",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "Grafana Labs",
+          "3",
+          "August 2021[176]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Hinge Health",
+          "3",
+          "January 2021[177]",
+          "Healthcare",
+          "US",
+          ""
+        ],
+        [
+          "Horizon Robotics",
+          "3",
+          "February 2018[178]",
+          "Semiconductors",
+          "China",
+          ""
+        ],
+        [
+          "Lucid Software",
+          "3",
+          "June 2021[179]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "MessageBird",
+          "3",
+          "October 2020[180]",
+          "Cloud communications",
+          "Netherlands",
+          ""
+        ],
+        [
+          "OfBusiness",
+          "3",
+          "September 2021[181]",
+          "B2B e-commerce",
+          "India",
+          ""
+        ],
+        [
+          "Ola Electric",
+          "3",
+          "September 2021[182]",
+          "Electric vehicles",
+          "India",
+          ""
+        ],
+        [
+          "Paytm Mall",
+          "3",
+          "July 2019[183]",
+          "E-commerce",
+          "India",
+          ""
+        ],
+        [
+          "Pine Labs",
+          "3",
+          "May 2021[184]",
+          "Financial technology",
+          "India",
+          ""
+        ],
+        [
+          "Razorpay",
+          "3",
+          "April 2021[185]",
+          "Financial technology",
+          "India",
+          ""
+        ],
+        [
+          "Seismic",
+          "3",
+          "August 2021[186]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Sky Mavis",
+          "3",
+          "October 2021[187]",
+          "Video games",
+          "Vietnam",
+          ""
+        ],
+        [
+          "Souche",
+          "3",
+          "September 2018[188]",
+          "Marketplace",
+          "China",
+          ""
+        ],
+        [
+          "TradingView",
+          "3",
+          "October 2021[189]",
+          "Finance",
+          "UK",
+          ""
+        ],
+        [
+          "VANCL",
+          "3",
+          "February 2014[5]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "VIPKID",
+          "3",
+          "June 2018[190]",
+          "Education",
+          "China",
+          ""
+        ],
+        [
+          "Warby Parker",
+          "3",
+          "August 2020[191]",
+          "Retail",
+          "US",
+          ""
+        ],
+        [
+          "Wefox",
+          "3",
+          "June 2021[192]",
+          "",
+          "Germany"
+        ],
+        [
+          "Yixia Technology",
+          "3",
+          "November 2016[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "OVO",
+          "2.9",
+          "October 2020[193]",
+          "Financial technology",
+          "Indonesia",
+          ""
+        ],
+        [
+          "Workrise",
+          "2.9",
+          "May 2021[194]",
+          "Workforce management",
+          "US",
+          ""
+        ],
+        [
+          "DriveWealth",
+          "2.85",
+          "August 2021[195]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "BharatPe",
+          "2.8",
+          "August 2021[196]",
+          "Financial technology",
+          "India",
+          ""
+        ],
+        [
+          "Contentsquare",
+          "2.8",
+          "May 2021[197]",
+          "Software as a service",
+          "France",
+          ""
+        ],
+        [
+          "Graphcore",
+          "2.8",
+          "December 2020[198]",
+          "Semiconductors",
+          "UK",
+          ""
+        ],
+        [
+          "Icertis",
+          "2.8",
+          "March 2021[199]",
+          "Software",
+          "India /  US",
+          "Samir Bodas, Monish Darda."
+        ],
+        [
+          "OakNorth",
+          "2.8",
+          "February 2019[200]",
+          "Finance",
+          "UK",
+          ""
+        ],
+        [
+          "UnionPay",
+          "2.8",
+          "October 2016[58]",
+          "Finance",
+          "China",
+          ""
+        ],
+        [
+          "Bird",
+          "2.78",
+          "October 2019[201]",
+          "Transportation",
+          "US",
+          ""
+        ],
+        [
+          "Convoy",
+          "2.75",
+          "November 2019[202]",
+          "Trucking",
+          "US",
+          ""
+        ],
+        [
+          "Illumio",
+          "2.75",
+          "June 2021[203]",
+          "Cybersecurity",
+          "US",
+          ""
+        ],
+        [
+          "MasterClass",
+          "2.75",
+          "May 2021[204]",
+          "Education technology",
+          "US",
+          ""
+        ],
+        [
+          "Traveloka",
+          "2.75",
+          "October 2020[205]",
+          "Travel",
+          "Indonesia",
+          ""
+        ],
+        [
+          "Zipline",
+          "2.75",
+          "June 2021[206]",
+          "Logistics",
+          "US",
+          ""
+        ],
+        [
+          "Karrot Market",
+          "2.7",
+          "August 2021[207]",
+          "E-commerce",
+          "South Korea",
+          ""
+        ],
+        [
+          "Nextiva",
+          "2.7",
+          "September 2021[208]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Tradeshift",
+          "2.7",
+          "March 2021[209]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "Odoo",
+          "2.63",
+          "July 2021[210]",
+          "CRM",
+          "Belgium",
+          ""
+        ],
+        [
+          "Airwallex",
+          "2.6",
+          "March 2021[211]",
+          "Financial services",
+          "Australia",
+          ""
+        ],
+        [
+          "AmWINS Group",
+          "2.6",
+          "October 2016[212]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "ManoMano",
+          "2.6",
+          "July 2021[213]",
+          "E-commerce",
+          "France",
+          ""
+        ],
+        [
+          "Pendo",
+          "2.6",
+          "July 2021[214]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Sourcegraph",
+          "2.6",
+          "July 2021[215]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Jumpcloud",
+          "2.56",
+          "September 2021[216]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "eToro",
+          "2.5",
+          "December 2020[217]",
+          "Financial technology",
+          "Israel",
+          ""
+        ],
+        [
+          "Lenskart",
+          "2.5",
+          "May 2021[218]",
+          "Retail",
+          "India",
+          "Peyush Bansal, Amit Chaudhary, Sumeet Kapahi"
+        ],
+        [
+          "Monzo",
+          "2.5",
+          "June 2019[219]",
+          "Financial services",
+          "UK",
+          ""
+        ],
+        [
+          "Ualá",
+          "2.45",
+          "November 2019[citation needed]",
+          "Personal finance",
+          "Argentina",
+          ""
+        ],
+        [
+          "BitSight",
+          "2.4",
+          "September 2021[220]",
+          "Cybersecurity",
+          "US",
+          "Nagarjuna Venna, Stephen Boyer"
+        ],
+        [
+          "Exabeam",
+          "2.4",
+          "June 2021[221]",
+          "Cybersecurity",
+          "US",
+          ""
+        ],
+        [
+          "Paxos",
+          "2.4",
+          "April 2021[222]",
+          "Cryptocurrency",
+          "US",
+          ""
+        ],
+        [
+          "PolicyBazaar",
+          "2.4",
+          "March 2021[223]",
+          "Insurance",
+          "India",
+          "Yashish Dahiya, Alok Bansal, Avaneesh Nirjar"
+        ],
+        [
+          "Mozido",
+          "2.39",
+          "October 2014[5]",
+          "E-commerce",
+          "US",
+          ""
+        ],
+        [
+          "Wemakeprice",
+          "2.33",
+          "September 2015[224]",
+          "",
+          "South Korea",
+          ""
+        ],
+        [
+          "Highspot",
+          "2.3",
+          "February 2021[225]",
+          "Sales",
+          "US",
+          ""
+        ],
+        [
+          "MPL",
+          "2.3",
+          "September 2021[226]",
+          "Mobile gaming",
+          "India",
+          ""
+        ],
+        [
+          "Uptake",
+          "2.3",
+          "November 2017[227]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Algolia",
+          "2.25",
+          "June 2021[228]",
+          "Software",
+          "France /  US",
+          ""
+        ],
+        [
+          "KeepTruckin",
+          "2.25",
+          "June 2021[229]",
+          "Logistics",
+          "US",
+          ""
+        ],
+        [
+          "Via Transportation",
+          "2.25",
+          "March 2020[230]",
+          "Transportation",
+          "US",
+          ""
+        ],
+        [
+          "Zume",
+          "2.25",
+          "November 2018[231]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Acorns",
+          "2.2",
+          "May 2021[232]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "Animoca Brands",
+          "2.2",
+          "October 2021[233]",
+          "Cryptocurrency",
+          "Australia",
+          "Yat Siu"
+        ],
+        [
+          "Bitso",
+          "2.2",
+          "May 2021[234]",
+          "Cryptocurrency",
+          "Mexico",
+          ""
+        ],
+        [
+          "Gympass",
+          "2.2",
+          "June 2021[235]",
+          "",
+          "Brazil /  US",
+          ""
+        ],
+        [
+          "Kurly",
+          "2.2",
+          "July 2021[236]",
+          "E-commerce",
+          "South Korea",
+          ""
+        ],
+        [
+          "Addepar",
+          "2.17",
+          "June 2021[237]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "Eightfold.ai",
+          "2.1+",
+          "June 2021[238]",
+          "Artificial intelligence",
+          "US",
+          ""
+        ],
+        [
+          "6sense",
+          "2.1",
+          "March 2021[239]",
+          "Artificial intelligence",
+          "US",
+          ""
+        ],
+        [
+          "C6 Bank [pt]",
+          "2.1",
+          "December 2020[240]",
+          "Financial services",
+          "Brazil",
+          ""
+        ],
+        [
+          "Mambu",
+          "2.1",
+          "January 2021[241]",
+          "Financial technology",
+          "Germany",
+          ""
+        ],
+        [
+          "Moveworks",
+          "2.1",
+          "June 2021[242]",
+          "Artificial intelligence",
+          "US",
+          ""
+        ],
+        [
+          "Nextdoor",
+          "2.1",
+          "May 2019[243]",
+          "Social network",
+          "US",
+          ""
+        ],
+        [
+          "ShareChat",
+          "2.1",
+          "April 2021[244]",
+          "Social network",
+          "India",
+          "Ankush Sachdeva, Bhanu Pratap Singh, Farid Ahsan"
+        ],
+        [
+          "Webflow",
+          "2.1",
+          "January 2021[245]",
+          "Web development",
+          "US",
+          ""
+        ],
+        [
+          "Octopus Energy",
+          "2.06",
+          "December 2020[246]",
+          "Energy supply",
+          "UK",
+          ""
+        ],
+        [
+          "Babylon Health",
+          "2+",
+          "August 2019[247]",
+          "Healthcare",
+          "UK",
+          ""
+        ],
+        [
+          "Bought By Many",
+          "2+",
+          "June 2021[248]",
+          "Insurance",
+          "UK",
+          ""
+        ],
+        [
+          "FlixMobility",
+          "2+",
+          "August 2019[249]",
+          "Transportation",
+          "Germany",
+          ""
+        ],
+        [
+          "Tipalti",
+          "2+",
+          "October 2020[citation needed]",
+          "Financial Technology",
+          "US /  Israel",
+          ""
+        ],
+        [
+          "XtalPi",
+          "2+",
+          "August 2021[250]",
+          "Pharmaceuticals",
+          "China",
+          ""
+        ],
+        [
+          "Mural",
+          "2",
+          "July 2021[251]",
+          "Technology",
+          "Argentina /  US",
+          "Patricio Jutard"
+        ],
+        [
+          "1Password",
+          "2",
+          "July 2021[252]",
+          "Password manager",
+          "Canada",
+          ""
+        ],
+        [
+          "AppsFlyer",
+          "2",
+          "November 2020[253]",
+          "Mobile Marketing Analytics",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "AvidXchange",
+          "2",
+          "January 2020[254]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "Beijing Weiying Technology",
+          "2",
+          "April 2016[5]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "BlaBlaCar",
+          "2",
+          "April 2021[255]",
+          "Transportation",
+          "France",
+          ""
+        ],
+        [
+          "Calm",
+          "2",
+          "December 2020[256]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Clearco",
+          "2",
+          "April 2021[257]",
+          "Financial services",
+          "Canada",
+          ""
+        ],
+        [
+          "Clip",
+          "2",
+          "June 2021[258]",
+          "Financial technology",
+          "Mexico",
+          ""
+        ],
+        [
+          "Cockroach Labs",
+          "2",
+          "January 2021[259]",
+          "Database management",
+          "US",
+          ""
+        ],
+        [
+          "Divvy Homes",
+          "2",
+          "August 2021[260]",
+          "Real estate technology",
+          "US",
+          ""
+        ],
+        [
+          "Firstp2p",
+          "2",
+          "September 2016[5]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Formlabs",
+          "2",
+          "May 2021[261]",
+          "3D printing",
+          "US",
+          ""
+        ],
+        [
+          "Huimin.cn",
+          "2",
+          "September 2016[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Iterable",
+          "2",
+          "June 2021[262]",
+          "Marketing",
+          "US",
+          ""
+        ],
+        [
+          "Kry",
+          "2",
+          "April 2021[263][264]",
+          "Healthcare",
+          "Sweden",
+          ""
+        ],
+        [
+          "Meicai.cn",
+          "2",
+          "June 2016[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "OPay",
+          "2",
+          "August 2021[265]",
+          "Financial technology",
+          "Nigeria",
+          ""
+        ],
+        [
+          "Oxford Nanopore Technologies",
+          "2",
+          "November 2012[266]",
+          "Nanopore sequencing",
+          "UK",
+          ""
+        ],
+        [
+          "Taopiaopiao",
+          "2",
+          "July 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Trendy International Group",
+          "2",
+          "February 2012[5][267]",
+          "",
+          "China /  Hong Kong",
+          ""
+        ],
+        [
+          "Unqork",
+          "2",
+          "October 2020[268]",
+          "Software development",
+          "US",
+          ""
+        ],
+        [
+          "Urban Company",
+          "2",
+          "April 2021[269]",
+          "Home improvement",
+          "India",
+          ""
+        ],
+        [
+          "Zerodha",
+          "2",
+          "May 2021[270]",
+          "Financial technology",
+          "India",
+          ""
+        ],
+        [
+          "Avant",
+          "1.98",
+          "September 2015[5]",
+          "Consumer Finance",
+          "US",
+          ""
+        ],
+        [
+          "Intarcia Therapeutics",
+          "1.95",
+          "September 2016[5]",
+          "Pharmaceutical",
+          "US",
+          ""
+        ],
+        [
+          "ThoughtSpot",
+          "1.95",
+          "August 2019[271][272]",
+          "Analytics",
+          "US",
+          ""
+        ],
+        [
+          "Yinlong Group",
+          "1.95",
+          "December 2016[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Sanpower Group",
+          "1.93",
+          "March 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Bunq",
+          "1.9",
+          "July 2021[273]",
+          "Financial services",
+          "Netherlands",
+          ""
+        ],
+        [
+          "CoinSwitch Kuber",
+          "1.9",
+          "October 2021[274]",
+          "Cryptocurrency",
+          "India",
+          ""
+        ],
+        [
+          "Dfinity",
+          "1.9",
+          "August 2018[275]",
+          "Cloud computing",
+          "Switzerland",
+          ""
+        ],
+        [
+          "Prosper Marketplace",
+          "1.9",
+          "August 2015[5]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "Musinsa",
+          "1.89",
+          "November 2019[224]",
+          "",
+          "South Korea",
+          ""
+        ],
+        [
+          "Apus Group",
+          "1.85",
+          "August 2017[58]",
+          "Mobile internet",
+          "China",
+          ""
+        ],
+        [
+          "BenevolentAI",
+          "1.85",
+          "August 2015[5]",
+          "",
+          "UK",
+          ""
+        ],
+        [
+          "CARS24",
+          "1.84",
+          "September 2021[276]",
+          "Marketplace",
+          "India",
+          ""
+        ],
+        [
+          "Landa Digital Printing",
+          "1.8",
+          "June 2018[277]",
+          "Printing",
+          "Israel",
+          ""
+        ],
+        [
+          "Lightricks",
+          "1.8",
+          "September 2021[278]",
+          "Software development",
+          "Israel",
+          ""
+        ],
+        [
+          "NantOmics",
+          "1.8",
+          "June 2015[5]",
+          "Biotechnology",
+          "US",
+          ""
+        ],
+        [
+          "Orca Security",
+          "1.8",
+          "October 2021[279]",
+          "Cybersecurity",
+          "Israel",
+          ""
+        ],
+        [
+          "Quora",
+          "1.8",
+          "April 2017[280]",
+          "Social Network",
+          "US",
+          ""
+        ],
+        [
+          "Zocdoc",
+          "1.8",
+          "August 2015[5]",
+          "Healthcare",
+          "US",
+          ""
+        ],
+        [
+          "L&P Cosmetic",
+          "1.78",
+          "March 2018[224]",
+          "",
+          "South Korea",
+          ""
+        ],
+        [
+          "Creditas [pt]",
+          "1.75",
+          "December 2020[citation needed]",
+          "Financial services",
+          "Brazil"
+        ],
+        [
+          "Trulioo",
+          "1.75",
+          "June 2021[281]",
+          "Identity management",
+          "Canada",
+          ""
+        ],
+        [
+          "dutchie",
+          "1.7",
+          "March 2021[282]",
+          "Cannabis",
+          "US",
+          ""
+        ],
+        [
+          "Harness",
+          "1.7",
+          "June 2021[283]",
+          "Software",
+          "US",
+          "Jyoti Bansal"
+        ],
+        [
+          "PAX Labs",
+          "1.7",
+          "April 2019[284]",
+          "Cannabis",
+          "US",
+          ""
+        ],
+        [
+          "Pleo",
+          "1.7",
+          "July 2021[285]",
+          "Financial technology",
+          "Denmark"
+        ],
+        [
+          "Taihe Music Group",
+          "1.7",
+          "June 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Thumbtack",
+          "1.7",
+          "July 2019[286][2]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Vestiaire Collective",
+          "1.7",
+          "September 2021[287]",
+          "Marketplace",
+          "France",
+          ""
+        ],
+        [
+          "VTEX [pt]",
+          "1.7",
+          "September 2020[288]",
+          "Technology",
+          "Brazil",
+          ""
+        ],
+        [
+          "Wave",
+          "1.7",
+          "September 2021[289]",
+          "Financial technology",
+          "Senegal /  US",
+          ""
+        ],
+        [
+          "Wiz",
+          "1.7",
+          "March 2021[290]",
+          "Cybersecurity",
+          "Israel",
+          ""
+        ],
+        [
+          "Workato",
+          "1.7",
+          "December 2020",
+          "Technology",
+          "US",
+          ""
+        ],
+        [
+          "Alan",
+          "1.68",
+          "April 2021[291]",
+          "Health technology",
+          "France",
+          ""
+        ],
+        [
+          "GoStudent",
+          "1.67",
+          "June 2021[292]",
+          "Education technology",
+          "Austria",
+          ""
+        ],
+        [
+          "Solarisbank",
+          "1.65",
+          "July 2021[293]",
+          "Financial Technology",
+          "Germany",
+          ""
+        ],
+        [
+          "Afiniti",
+          "1.6",
+          "May 2017[294]",
+          "Software development",
+          "US",
+          ""
+        ],
+        [
+          "Aiways",
+          "1.6",
+          "April 2018[58]",
+          "Electric vehicles",
+          "China",
+          ""
+        ],
+        [
+          "Caocao Zhuanche",
+          "1.6",
+          "January 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Clari",
+          "1.6",
+          "March 2021[295]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Clio",
+          "1.6",
+          "April 2021[296]",
+          "Legal technology",
+          "Canada",
+          ""
+        ],
+        [
+          "Cognite",
+          "1.6",
+          "May 2021",
+          "Software",
+          "Norway",
+          ""
+        ],
+        [
+          "HomeLight",
+          "1.6",
+          "September 2021[297]",
+          "Real estate",
+          "US",
+          ""
+        ],
+        [
+          "Infinidat",
+          "1.6",
+          "October 2017[citation needed]",
+          "Data storage",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "Judo Bank",
+          "1.6",
+          "December 2020[298]",
+          "Financial services",
+          "Australia",
+          ""
+        ],
+        [
+          "SafetyCulture",
+          "1.6",
+          "May 2021[299]",
+          "Technology",
+          "Australia",
+          ""
+        ],
+        [
+          "SmartHR",
+          "1.6",
+          "May 2021[300]",
+          "",
+          "Japan",
+          ""
+        ],
+        [
+          "Unite Us",
+          "1.6",
+          "March 2021[301]",
+          "Healthcare",
+          "US",
+          ""
+        ],
+        [
+          "HeartFlow",
+          "1.5+",
+          "February 2018[302]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Aihuishou",
+          "1.5",
+          "January 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Andela",
+          "1.5",
+          "September 2021[303]",
+          "Education",
+          "Nigeria /  US",
+          ""
+        ],
+        [
+          "Culture Amp",
+          "1.5",
+          "July 2021[304]",
+          "Software",
+          "Australia",
+          ""
+        ],
+        [
+          "Gett",
+          "1.5",
+          "May 2019[305]",
+          "Transportation",
+          "Israel",
+          ""
+        ],
+        [
+          "ID.me",
+          "1.5",
+          "March 2021[306]",
+          "Identity verification service",
+          "US",
+          ""
+        ],
+        [
+          "Ledger",
+          "1.5",
+          "June 2021[307]",
+          "Cryptocurrency",
+          "France",
+          ""
+        ],
+        [
+          "Matillion",
+          "1.5",
+          "September 2021[308]",
+          "Data analytics",
+          "UK",
+          ""
+        ],
+        [
+          "MOLOCO",
+          "1.5",
+          "August 2021[309]",
+          "Advertising technology",
+          "US",
+          ""
+        ],
+        [
+          "Mu Sigma",
+          "1.5",
+          "February 2013[310]",
+          "Management consulting",
+          "India /  US",
+          ""
+        ],
+        [
+          "NextSilicon",
+          "1.5",
+          "June 2021[311]",
+          "Semiconductors",
+          "Israel",
+          ""
+        ],
+        [
+          "NotCo",
+          "1.5",
+          "July 2021[312]",
+          "Food technology",
+          "Chile",
+          ""
+        ],
+        [
+          "Podium",
+          "1.5",
+          "August 2019[313][314]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Remote",
+          "1.5",
+          "July 2021[315]",
+          "",
+          "Portugal",
+          ""
+        ],
+        [
+          "Spring Rain Software",
+          "1.5",
+          "June 2016[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Starling Bank",
+          "1.5",
+          "March 2021[316]",
+          "Financial technology",
+          "UK",
+          ""
+        ],
+        [
+          "Tujia.com",
+          "1.5",
+          "October 2017[317][318]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "ZBJ.com",
+          "1.5",
+          "June 2015[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Ascend Money",
+          "1.5",
+          "September 2021[319]",
+          "Financial technology",
+          "Thailand",
+          ""
+        ],
+        [
+          "Hellobike",
+          "1.47",
+          "June 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Suning Sports",
+          "1.47",
+          "July 2018[58]",
+          "Holding company",
+          "China",
+          ""
+        ],
+        [
+          "Koudai Gouwu",
+          "1.45",
+          "October 2014[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "M1 Finance",
+          "1.45",
+          "July 2021[320]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "Zeta",
+          "1.45",
+          "May 2021[321]",
+          "Financial technology",
+          "India",
+          "Bhavin Turakhia, Ramki Gaddipati"
+        ],
+        [
+          "Away",
+          "1.4",
+          "May 2019[322]",
+          "Retail",
+          "US",
+          ""
+        ],
+        [
+          "Cabify",
+          "1.4",
+          "January 2018[323]",
+          "Transportation",
+          "Spain",
+          ""
+        ],
+        [
+          "Chargebee",
+          "1.4",
+          "April 2021[324]",
+          "Financial technology",
+          "India /  US",
+          ""
+        ],
+        [
+          "Deezer",
+          "1.4",
+          "January 2016[325]",
+          "Music",
+          "France",
+          ""
+        ],
+        [
+          "Epidemic Sound",
+          "1.4",
+          "March 2021[326]",
+          "Music",
+          "Sweden",
+          "Peer Åström, David Stenmarck, Oscar Höglund, Jan Zachrisson"
+        ],
+        [
+          "FiscalNote",
+          "1.4",
+          "May 2021[327]",
+          "Data analytics",
+          "US",
+          "Timothy Hwang, Gerald Yao, Jonathan Chen"
+        ],
+        [
+          "Five Star Finance",
+          "1.4",
+          "March 2021[328]",
+          "Financial services",
+          "India",
+          ""
+        ],
+        [
+          "Gupshup",
+          "1.4",
+          "April 2021[329]",
+          "Messaging",
+          "India /  US",
+          ""
+        ],
+        [
+          "NetDocuments",
+          "1.4",
+          "May 2021[330]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "QOMPLX, Inc.",
+          "1.4",
+          "March 2021[citation needed]",
+          "Computer Security",
+          "US",
+          ""
+        ],
+        [
+          "Rebel Foods",
+          "1.4",
+          "October 2021[331]",
+          "Ghost kitchen",
+          "India",
+          ""
+        ],
+        [
+          "Stash",
+          "1.4",
+          "February 2021[332]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "Symphony",
+          "1.4",
+          "June 2019[333][334]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Yotpo",
+          "1.4",
+          "March 2021[335]",
+          "Marketing",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "Zetwerk",
+          "1.33",
+          "August 2021[336]",
+          "",
+          "India",
+          ""
+        ],
+        [
+          "GPClub",
+          "1.32",
+          "December 2018[224]",
+          "",
+          "South Korea",
+          ""
+        ],
+        [
+          "DistroKid",
+          "1.3",
+          "August 2021[337]",
+          "Music",
+          "US",
+          ""
+        ],
+        [
+          "ETCP",
+          "1.3",
+          "October 2016[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Feedzai",
+          "1.3",
+          "March 2021[338]",
+          "Artificial intelligence",
+          "Portugal /  US",
+          ""
+        ],
+        [
+          "G2",
+          "1.3",
+          "June 2021[339]",
+          "Technology",
+          "US",
+          "Tim Handorf, Godard Abel, Matt Gorniak, Mark Myers, Mike Wheeler"
+        ],
+        [
+          "Innovaccer",
+          "1.3",
+          "February 2021[340]",
+          "Health care",
+          "India /  US",
+          ""
+        ],
+        [
+          "Knotel",
+          "1.3",
+          "August 2019[341]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Konfio",
+          "1.3",
+          "September 2021[342]",
+          "Financial services",
+          "Mexico",
+          ""
+        ],
+        [
+          "Kr Space",
+          "1.3",
+          "June 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Sonder",
+          "1.3",
+          "July 2020[343]",
+          "Hospitality",
+          "US",
+          ""
+        ],
+        [
+          "Applied Intuition",
+          "1.25",
+          "October 2020[344]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "BigID",
+          "1.25",
+          "May 2018[345]",
+          "Cybersecurity",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "Deel",
+          "1.25",
+          "April 2021[346]",
+          "",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "ezCater",
+          "1.25",
+          "April 2019[347]",
+          "",
+          "US",
+          "Stefania Mallett, Briscoe Rodgers"
+        ],
+        [
+          "Iwjw",
+          "1.25",
+          "November 2015[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Marshmallow",
+          "1.25",
+          "September 2021[348]",
+          "Insurance",
+          "UK",
+          ""
+        ],
+        [
+          "Rec Room Inc",
+          "1.25",
+          "March 2021[349]",
+          "Video games",
+          "US",
+          ""
+        ],
+        [
+          "Nexii",
+          "1.23",
+          "September 2021[350]",
+          "Building services engineering",
+          "Canada",
+          ""
+        ],
+        [
+          "Spiber",
+          "1.22",
+          "September 2021[351]",
+          "Biotechnology",
+          "Japan",
+          ""
+        ],
+        [
+          "Ada",
+          "1.2",
+          "May 2021[352]",
+          "Software",
+          "Canada",
+          ""
+        ],
+        [
+          "Alation",
+          "1.2",
+          "June 2021[353]",
+          "Software",
+          "US",
+          "Satyen Sangani, Aaron Kalb, Feng Niu, and Venky Ganti"
+        ],
+        [
+          "Apotea",
+          "1.2",
+          "April 2021[264]",
+          "E-commerce",
+          "Sweden",
+          ""
+        ],
+        [
+          "Axonius",
+          "1.2",
+          "March 2021[354]",
+          "Cybersecurity",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "Byton",
+          "1.2",
+          "June 2018[58]",
+          "Automotive",
+          "China",
+          ""
+        ],
+        [
+          "CarDekho",
+          "1.2",
+          "October 2021[355]",
+          "Marketplace",
+          "India",
+          ""
+        ],
+        [
+          "Copado",
+          "1.2",
+          "September 2021",
+          "Software",
+          "Spain /  US",
+          ""
+        ],
+        [
+          "Dada",
+          "1.2",
+          "August 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Deutsche Health",
+          "1.2",
+          "August 2020[58]",
+          "",
+          "Germany /  Russia",
+          ""
+        ],
+        [
+          "Droom",
+          "1.2",
+          "July 2021[356]",
+          "Marketplace",
+          "India",
+          ""
+        ],
+        [
+          "Fair",
+          "1.2",
+          "December 2018[357]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "FirstCry",
+          "1.2",
+          "February 2020[358]",
+          "E-commerce",
+          "India",
+          ""
+        ],
+        [
+          "FloQast",
+          "1.2",
+          "July 2021[359]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Forto",
+          "1.2",
+          "June 2021[360]",
+          "Software",
+          "Germany",
+          ""
+        ],
+        [
+          "Glossier",
+          "1.2",
+          "March 2019[361]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Intercom",
+          "1.2",
+          "March 2018[362]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "MindTickle",
+          "1.2",
+          "August 2021[363]",
+          "Software as a service",
+          "India",
+          ""
+        ],
+        [
+          "Nykaa",
+          "1.2",
+          "April 2020[364]",
+          "E-commerce",
+          "India",
+          ""
+        ],
+        [
+          "Rohlik",
+          "1.2",
+          "June 2021[365]",
+          "Retail",
+          "Czech Republic",
+          ""
+        ],
+        [
+          "Starburst Data",
+          "1.2",
+          "January 2021[366]",
+          "Technology",
+          "US",
+          ""
+        ],
+        [
+          "upGrad",
+          "1.2",
+          "August 2021[367]",
+          "Educational technology",
+          "India",
+          ""
+        ],
+        [
+          "Voodoo",
+          "1.2",
+          "August 2020[368]",
+          "Gaming",
+          "France",
+          ""
+        ],
+        [
+          "Workhuman",
+          "1.2",
+          "June 2020[369]",
+          "Software",
+          "Ireland",
+          ""
+        ],
+        [
+          "Sysdig",
+          "1.18",
+          "April 2021[370]",
+          "Cybersecurity",
+          "US",
+          ""
+        ],
+        [
+          "NetEase Cloud Music",
+          "1.16",
+          "April 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Doctolib",
+          "1.13",
+          "March 2019[371]",
+          "",
+          "France",
+          ""
+        ],
+        [
+          "Apna",
+          "1.1",
+          "September 2021[372]",
+          "",
+          "India",
+          ""
+        ],
+        [
+          "Carousell",
+          "1.1",
+          "September 2021[373]",
+          "Marketplace",
+          "Singapore",
+          ""
+        ],
+        [
+          "CoinDCX",
+          "1.1",
+          "August 2021[374]",
+          "Cryptocurrency",
+          "India",
+          ""
+        ],
+        [
+          "Coveo",
+          "1.1",
+          "November 2019[375]",
+          "Software as a service",
+          "Canada",
+          ""
+        ],
+        [
+          "Luoji Siwei",
+          "1.1",
+          "September 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Nexthink",
+          "1.1",
+          "February 2021[376]",
+          "Technology",
+          "Switzerland",
+          ""
+        ],
+        [
+          "Sisense",
+          "1.1",
+          "January 2020[377]",
+          "Business intelligence",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "SmartNews",
+          "1.1",
+          "August 2019[378]",
+          "",
+          "Japan",
+          ""
+        ],
+        [
+          "Trax",
+          "1.1",
+          "May 2019[379]",
+          "",
+          "Singapore /  Israel",
+          ""
+        ],
+        [
+          "Virta Health",
+          "1.1",
+          "December 2020[380]",
+          "Healthcare",
+          "US",
+          ""
+        ],
+        [
+          "Zego",
+          "1.1",
+          "March 2021[381]",
+          "Insurance",
+          "UK",
+          ""
+        ],
+        [
+          "Instabase",
+          "1.05",
+          "October 2019[382]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Rivigo",
+          "1.05",
+          "October 2019[383]",
+          "Logistics",
+          "India",
+          ""
+        ],
+        [
+          "Aprogen",
+          "1.04",
+          "December 2019[384]",
+          "",
+          "South Korea",
+          ""
+        ],
+        [
+          "58 Daojia",
+          "1+",
+          "October 2015[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Acronis",
+          "1+",
+          "September 2019[385]",
+          "Software",
+          "Singapore /   Switzerland",
+          ""
+        ],
+        [
+          "Ajaib",
+          "1+",
+          "October 2021[386]",
+          "Financial technology",
+          "Indonesia",
+          ""
+        ],
+        [
+          "Amber Group",
+          "1+",
+          "June 2021[387]",
+          "Cryptocurrency",
+          "Hong Kong",
+          ""
+        ],
+        [
+          "AppDirect",
+          "1+",
+          "October 2015[388]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Aqua Security",
+          "1+",
+          "March 2021[389]",
+          "Cloud computing",
+          "Israel",
+          ""
+        ],
+        [
+          "Arctic Wolf",
+          "1+",
+          "October 2020[390]",
+          "Cybersecurity",
+          "US",
+          ""
+        ],
+        [
+          "Beibei",
+          "1+",
+          "June 2016[58]",
+          "E-commerce",
+          "China",
+          ""
+        ],
+        [
+          "Blackbuck",
+          "1+",
+          "July 2021[391]",
+          "Logistics",
+          "India",
+          ""
+        ],
+        [
+          "Bluecore",
+          "1+",
+          "August 2021[392]",
+          "E-commerce",
+          "US",
+          ""
+        ],
+        [
+          "Bolt",
+          "1+",
+          "May 2018[393]",
+          "Vehicle for hire",
+          "Estonia",
+          ""
+        ],
+        [
+          "Branch Metrics",
+          "1+",
+          "September 2018[394]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Bringg",
+          "1+",
+          "June 2021[395]",
+          "Logistics",
+          "Israel",
+          ""
+        ],
+        [
+          "Calabrio",
+          "1+",
+          "March 2021[396]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Carro",
+          "1+",
+          "June 2021[397]",
+          "Marketplace",
+          "Singapore",
+          ""
+        ],
+        [
+          "Carsome",
+          "1+",
+          "July 2021[398]",
+          "Marketplace",
+          "Malaysia",
+          ""
+        ],
+        [
+          "Cato Networks",
+          "1+",
+          "November 2020[399]",
+          "Cybersecurity",
+          "Israel",
+          ""
+        ],
+        [
+          "Chubao Technology",
+          "1+",
+          "May 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Dream Games",
+          "1+",
+          "June 2021[400]",
+          "Video games",
+          "Turkey",
+          ""
+        ],
+        [
+          "DriveNets",
+          "1+",
+          "January 2021[401]",
+          "Software as a service",
+          "Israel",
+          ""
+        ],
+        [
+          "Druva",
+          "1+",
+          "June 2019[402]",
+          "Cloud computing",
+          "India /  US",
+          ""
+        ],
+        [
+          "Dt Dream",
+          "1+",
+          "June 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Dunamu",
+          "1+",
+          "July 2021[403]",
+          "Fintech",
+          "South Korea",
+          ""
+        ],
+        [
+          "DXY",
+          "1+",
+          "April 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Earnix",
+          "1+",
+          "February 2021[404]",
+          "Financial technology",
+          "Israel",
+          ""
+        ],
+        [
+          "Ebanx",
+          "1+",
+          "October 2019[405]",
+          "Financial services",
+          "Brazil",
+          ""
+        ],
+        [
+          "EMPG",
+          "1+",
+          "June 2020[406]",
+          "Real estate technology",
+          "UAE",
+          ""
+        ],
+        [
+          "Flash Express",
+          "1+",
+          "June 2021[407][408]",
+          "Logistics",
+          "Thailand",
+          ""
+        ],
+        [
+          "Flutterwave",
+          "1+",
+          "March 2021[409]",
+          "Financial technology",
+          "Nigeria /  US",
+          ""
+        ],
+        [
+          "FreshBooks",
+          "1+",
+          "August 2021[410]",
+          "Accounting software",
+          "Canada",
+          ""
+        ],
+        [
+          "Frontline Education",
+          "1+",
+          "September 2017[411]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "FXiaoKe",
+          "1+",
+          "January 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Gelato",
+          "1+",
+          "August 2021[412]",
+          "",
+          "Norway",
+          ""
+        ],
+        [
+          "GeoComply",
+          "1+",
+          "March 2021[413]",
+          "Cybersecurity",
+          "Canada",
+          ""
+        ],
+        [
+          "GetYourGuide",
+          "1+",
+          "May 2019[414]",
+          "Travel",
+          "Germany",
+          ""
+        ],
+        [
+          "Glance",
+          "1+",
+          "December 2020[415]",
+          "Artificial intelligence",
+          "India",
+          ""
+        ],
+        [
+          "Glovo",
+          "1+",
+          "December 2019[416]",
+          "Courier service",
+          "Spain"
+        ],
+        [
+          "Go1",
+          "1+",
+          "July 2021[417]",
+          "Education",
+          "Australia",
+          ""
+        ],
+        [
+          "GoGoVan",
+          "1+",
+          "September 2017[418]",
+          "Technology",
+          "Hong Kong",
+          ""
+        ],
+        [
+          "Gorillas",
+          "1+",
+          "March 2021[419]",
+          "Retail",
+          "Germany",
+          ""
+        ],
+        [
+          "Gousto",
+          "1+",
+          "November 2020[citation needed]",
+          "Meal kit",
+          "UK",
+          ""
+        ],
+        [
+          "Grammarly",
+          "1+",
+          "October 2019[420]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Grofers",
+          "1+",
+          "June 2021[421]",
+          "Retail",
+          "India",
+          ""
+        ],
+        [
+          "Grove Collaborative",
+          "1+",
+          "September 2019[citation needed]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Groww",
+          "1+",
+          "April 2021[422]",
+          "Financial technology",
+          "India",
+          ""
+        ],
+        [
+          "Hailo",
+          "1+",
+          "June 2021[423]",
+          "Electronics",
+          "Israel",
+          ""
+        ],
+        [
+          "HighRadius",
+          "1+",
+          "January 2020[424]",
+          "Software as a service",
+          "India /  US",
+          ""
+        ],
+        [
+          "HoneyBook",
+          "1+",
+          "May 2021[425]",
+          "Financial services",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "Huikedu Group",
+          "1+",
+          "May 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "iCarbonX",
+          "1+",
+          "July 2016[58]",
+          "Healthcare",
+          "China",
+          ""
+        ],
+        [
+          "IFood",
+          "1+",
+          "November 2018[426]",
+          "Food delivery",
+          "Brazil",
+          ""
+        ],
+        [
+          "Improbable",
+          "1+",
+          "May 2017[427]",
+          "Cloud computing",
+          "UK",
+          ""
+        ],
+        [
+          "Infobip",
+          "1+",
+          "July 2020[428]",
+          "Cloud communications",
+          "Croatia /  UK",
+          ""
+        ],
+        [
+          "Infra.Market",
+          "1+",
+          "February 2021[429]",
+          "Technology company",
+          "India",
+          ""
+        ],
+        [
+          "Injective",
+          "1+",
+          "April 2021 [430]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "InMobi",
+          "1+",
+          "May 2017[431]",
+          "Internet",
+          "India",
+          ""
+        ],
+        [
+          "InVision",
+          "1+",
+          "November 2017[432]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Ivalua",
+          "1+",
+          "May 2020[433]",
+          "",
+          "France /  US",
+          ""
+        ],
+        [
+          "Jollychic",
+          "1+",
+          "May 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "JoyTunes",
+          "1+",
+          "June 2021[434]",
+          "Music",
+          "Israel",
+          ""
+        ],
+        [
+          "Kitopi",
+          "1+",
+          "July 2021[435]",
+          "Ghost kitchen",
+          "UAE",
+          ""
+        ],
+        [
+          "Klook",
+          "1+",
+          "April 2019[436][437]",
+          "",
+          "Hong Kong",
+          ""
+        ],
+        [
+          "Lamabang",
+          "1+",
+          "February 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "LetsGetChecked",
+          "1+",
+          "June 2021[438]",
+          "Healthcare",
+          "Ireland",
+          ""
+        ],
+        [
+          "Licious",
+          "1+",
+          "October 2021[439]",
+          "Retail",
+          "India",
+          ""
+        ],
+        [
+          "Lilium",
+          "1+",
+          "June 2020[440]",
+          "Transportation",
+          "Germany",
+          ""
+        ],
+        [
+          "LinkSure Network (WiFi Master Key)",
+          "1+",
+          "January 2015[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Liquid Group",
+          "1+",
+          "April 2019[441]",
+          "Cryptocurrency",
+          "Japan",
+          ""
+        ],
+        [
+          "Locus Robotics",
+          "1+",
+          "February 2021[442]",
+          "Robotics",
+          "US",
+          ""
+        ],
+        [
+          "Loft Brazil Technology [pt]",
+          "1+",
+          "January 2020[443]",
+          "Real Estate",
+          "Brazil",
+          ""
+        ],
+        [
+          "Lunar",
+          "1+",
+          "July 2021[444]",
+          "Financial technology",
+          "Denmark"
+        ],
+        [
+          "Loggi [pt]",
+          "1+",
+          "June 2019[citation needed]",
+          "Logistics",
+          "Brazil",
+          ""
+        ],
+        [
+          "Lookout",
+          "1+",
+          "August 2014[445]",
+          "Cybersecurity",
+          "US",
+          ""
+        ],
+        [
+          "MadeiraMadeira [pt]",
+          "1+",
+          "January 2021[446]",
+          "Furniture",
+          "Brazil",
+          ""
+        ],
+        [
+          "Maimai",
+          "1+",
+          "August 2018[447]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Matrixport",
+          "1+",
+          "August 2021[448]",
+          "Cryptocurrency",
+          "Singapore",
+          ""
+        ],
+        [
+          "Meero",
+          "1+",
+          "June 2019[449]",
+          "Internet",
+          "France",
+          ""
+        ],
+        [
+          "Mia.com",
+          "1+",
+          "October 2016[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "MindMaze",
+          "1+",
+          "February 2016[450]",
+          "",
+          "Switzerland",
+          ""
+        ],
+        [
+          "MobiKwik",
+          "1+",
+          "October 2021[451]",
+          "Financial technology",
+          "India",
+          ""
+        ],
+        [
+          "MobileCoin",
+          "1+",
+          "August 2021[452]",
+          "Cryptocurrency",
+          "US",
+          ""
+        ],
+        [
+          "Mobvoi",
+          "1+",
+          "October 2015[58]",
+          "Artificial intelligence",
+          "China",
+          ""
+        ],
+        [
+          "Mofang Apartment",
+          "1+",
+          "April 2016[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Moglix",
+          "1+",
+          "May 2021[453]",
+          "E-commerce",
+          "India /  Singapore",
+          ""
+        ],
+        [
+          "Morning Consult",
+          "1+",
+          "June 2021[454]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Ninja Van",
+          "1+",
+          "September 2021[455]",
+          "Logistics",
+          "Singapore",
+          ""
+        ],
+        [
+          "Nium",
+          "1+",
+          "July 2021[456]",
+          "Financial technology",
+          "Singapore",
+          ""
+        ],
+        [
+          "Numbrs",
+          "1+",
+          "August 2019[457]",
+          "Financial technology",
+          "Switzerland",
+          ""
+        ],
+        [
+          "OCSiAl",
+          "1+",
+          "March 2019[458]",
+          "Nanotechnology",
+          "Luxembourg",
+          ""
+        ],
+        [
+          "OrCam",
+          "1+",
+          "February 2018[459]",
+          "Health",
+          "Israel",
+          ""
+        ],
+        [
+          "PandaDoc",
+          "1+",
+          "September 2021[460]",
+          "Software as a Service",
+          "US",
+          "Mikita Mikado, Sergey Barysiuk"
+        ],
+        [
+          "Pantheon",
+          "1+",
+          "July 2021[461]",
+          "WebOps",
+          "US",
+          ""
+        ],
+        [
+          "PatSnap",
+          "1+",
+          "March 2021[462]",
+          "Intellectual property",
+          "Singapore",
+          ""
+        ],
+        [
+          "Picsart",
+          "1+",
+          "August 2021[463]",
+          "Graphic design",
+          "Armenia /  US",
+          ""
+        ],
+        [
+          "Pipedrive",
+          "1+",
+          "November 2020[464]",
+          "CRM",
+          "Estonia /  US",
+          ""
+        ],
+        [
+          "Playco",
+          "1+",
+          "September 2020[465]",
+          "Mobile gaming",
+          "Japan",
+          ""
+        ],
+        [
+          "Printful",
+          "1+",
+          "May 2021[466]",
+          "Technology",
+          "Latvia",
+          ""
+        ],
+        [
+          "Redis Labs",
+          "1+",
+          "August 2020[467]",
+          "Software",
+          "Israel /  US",
+          ""
+        ],
+        [
+          "REEF Technology",
+          "1+",
+          "November 2020[468]",
+          "Information Technology & Services",
+          "US",
+          ""
+        ],
+        [
+          "Quizlet",
+          "1+",
+          "May 2020[469]",
+          "Education technology",
+          "US",
+          ""
+        ],
+        [
+          "Rent the Runway",
+          "1+",
+          "March 2019[470]",
+          "E-commerce",
+          "US",
+          ""
+        ],
+        [
+          "Revolution Precrafted",
+          "1+",
+          "October 2017[471]",
+          "Architecture",
+          "Philippines",
+          ""
+        ],
+        [
+          "Rubicon Global",
+          "1+",
+          "September 2017[472]",
+          "Waste management",
+          "US",
+          ""
+        ],
+        [
+          "Sennder",
+          "1+",
+          "January 2021[473]",
+          "Logistics",
+          "Germany",
+          ""
+        ],
+        [
+          "Shift Technology",
+          "1+",
+          "May 2021[474]",
+          "Artificial intelligence",
+          "France",
+          ""
+        ],
+        [
+          "Shippo",
+          "1+",
+          "June 2021[475]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Sift",
+          "1+",
+          "April 2021[476]",
+          "Digital Trust & Safety",
+          "US",
+          ""
+        ],
+        [
+          "SmartAsset",
+          "1+",
+          "June 2021[477]",
+          "Financial technology",
+          "US",
+          ""
+        ],
+        [
+          "SmartMore",
+          "1+",
+          "June 2021[478]",
+          "Artificial intelligence",
+          "China",
+          ""
+        ],
+        [
+          "Snapdeal",
+          "1+",
+          "May 2017[5]",
+          "E-commerce",
+          "India",
+          ""
+        ],
+        [
+          "Socar",
+          "1+",
+          "October 2020[403]",
+          "Car Sharing",
+          "South Korea",
+          ""
+        ],
+        [
+          "SoundHound",
+          "1+",
+          "May 2018[479]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Splashtop",
+          "1+",
+          "January 2021[480]",
+          "Software",
+          "US",
+          ""
+        ],
+        [
+          "Tekion",
+          "1+",
+          "October 2020[481][482]",
+          "Software as a Service (SaaS)",
+          "US",
+          ""
+        ],
+        [
+          "Tenstorrent",
+          "1+",
+          "May 2021[483]",
+          "Semiconductors",
+          "Canada",
+          ""
+        ],
+        [
+          "Tongdun Technology",
+          "1+",
+          "October 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Tractable",
+          "1+",
+          "June 2021[484]",
+          "Artificial intelligence",
+          "UK",
+          ""
+        ],
+        [
+          "Tresata",
+          "1+",
+          "October 2018[485]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "TrueLayer",
+          "1+",
+          "September 2021[486]",
+          "Financial technology",
+          "UK",
+          ""
+        ],
+        [
+          "Trustly",
+          "1+",
+          "June 2020[487]",
+          "Financial technology",
+          "Sweden",
+          ""
+        ],
+        [
+          "Turo",
+          "1+",
+          "July 2019[488]",
+          "Car sharing",
+          "US",
+          ""
+        ],
+        [
+          "Udacity",
+          "1+",
+          "November 2015[489]",
+          "Education",
+          "US",
+          ""
+        ],
+        [
+          "Unisound",
+          "1+",
+          "July 2018[58]",
+          "Technology",
+          "China",
+          ""
+        ],
+        [
+          "Vedantu",
+          "1+",
+          "September 2021[490]",
+          "Education technology",
+          "India",
+          ""
+        ],
+        [
+          "Verbit",
+          "1+",
+          "June 2021[491]",
+          "Software",
+          "Israel",
+          ""
+        ],
+        [
+          "VerSe Innovation",
+          "1+",
+          "December 2020[492]",
+          "Technology",
+          "India",
+          ""
+        ],
+        [
+          "Visier",
+          "1+",
+          "June 2021[493]",
+          "Technology",
+          "Canada",
+          ""
+        ],
+        [
+          "volocopter",
+          "1+",
+          "March 2021[494]",
+          "Transportation",
+          "Germany",
+          ""
+        ],
+        [
+          "Vox Media",
+          "1+",
+          "August 2015[495]",
+          "Digital media",
+          "US",
+          ""
+        ],
+        [
+          "VTS",
+          "1+",
+          "May 2019[496]",
+          "",
+          "US",
+          ""
+        ],
+        [
+          "Wacai.com",
+          "1+",
+          "July 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "WeLab",
+          "1+",
+          "December 2019[497]",
+          "Financial technology",
+          "Hong Kong",
+          ""
+        ],
+        [
+          "Womai",
+          "1+",
+          "October 2015[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Xendit",
+          "1+",
+          "September 2021[498]",
+          "Financial technology",
+          "Indonesia",
+          ""
+        ],
+        [
+          "Xiaozhu.com",
+          "1+",
+          "November 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Yanolja",
+          "1+",
+          "February 2019[499]",
+          "",
+          "South Korea",
+          ""
+        ],
+        [
+          "YH Global",
+          "1+",
+          "September 2017[58]",
+          "Telecommunications",
+          "China",
+          ""
+        ],
+        [
+          "Yidian Zixun",
+          "1+",
+          "October 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Yitu Technology",
+          "1+",
+          "July 2018[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "YunQuNa",
+          "1+",
+          "May 2021[500]",
+          "Logistics",
+          "China",
+          ""
+        ],
+        [
+          "Zenoti",
+          "1+",
+          "December 2020[501]",
+          "Software company",
+          "India /  US",
+          ""
+        ],
+        [
+          "Zhaogang.com",
+          "1+",
+          "July 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Zhuanzhuan",
+          "1+",
+          "April 2017[58]",
+          "",
+          "China",
+          ""
+        ],
+        [
+          "Zigbang",
+          "1+",
+          "July 2021[502]",
+          "Real Estate",
+          "South Korea",
+          ""
+        ],
+        [
+          "Zuoyebang",
+          "1+",
+          "July 2018[58]",
+          "",
+          "China",
+          ""
+        ]
+      ]
+    }
+  ]
