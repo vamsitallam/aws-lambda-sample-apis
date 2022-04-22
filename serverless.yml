@@ -22,14 +22,14 @@ provider:
 
 functions:
   hello:
-    handler: handler.hello
+    handler: apis/handler.hello
     events:
       - http:
           path: /hello
           method: get
           cors: true
   unicorns:
-    handler: unicorns.unicornsList
+    handler: apis/unicorns.unicornsList
     events:
       - http:
           path: /unicorns
