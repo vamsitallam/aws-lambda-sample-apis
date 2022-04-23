@@ -1,6 +1,6 @@
 const fetch = require("node-fetch");
 
-const unicornsList = require("../fixtures/unicornsData.json");
+const unicornsListData = require("../fixtures/unicornsData.json");
 
 module.exports.unicornsList = async (event) => {
   if (event.httpMethod == "GET") {
@@ -51,7 +51,7 @@ module.exports.unicornsList = async (event) => {
   }
 };
 
-function transformWikiTableJSON(list = unicornsList) {
+function transformWikiTableJSON(list = unicornsListData) {
   const objectKeys = list[0].data[0];
   list[0].data.shift();
   const transformWikiTableJSONData = list[0].data.map((i) => {
@@ -65,7 +65,7 @@ function transformWikiTableJSON(list = unicornsList) {
 }
 
 function getIndianUnicorns() {
-  const allUnicornsList = transformWikiTableJSON(unicornsList);
+  const allUnicornsList = transformWikiTableJSON();
   const indianStartups = allUnicornsList.filter((item) =>
     item.Country.includes("India")
   );

@@ -10,7 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "8.1.0",
+    "http-server": "14.1.0",
+    "mz": "2.7.0",
     "node-fetch": "2.6.1",
+    "puppeteer": "13.6.0",
+    "resemblejs": "4.1.0",
     "serverless-offline": "8.2.0"
   }
 }
