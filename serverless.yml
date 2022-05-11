@@ -12,13 +12,6 @@ provider:
   profile: ${opt:profile, 'default'}
   logs:
     restApi: true
-  iamRoleStatements:
-    - Effect: "Allow"
-      Action:
-        - "dynamodb:Scan"
-        - "dynamodb:GetItem"
-        - "dynamodb:PutItem"
-      Resource: "*"
 
 functions:
   hello:
@@ -33,6 +26,13 @@ functions:
     events:
       - http:
           path: /unicorns
+          method: get
+          cors: true
+  visualTest:
+    handler: apis/visualTest/index.visualTestDifference
+    events:
+      - http:
+          path: /visual
           method: get
           cors: true
 plugins:
